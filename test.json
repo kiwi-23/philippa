@@ -1,0 +1,1842 @@
+[
+  {
+    "name": "Vanya",
+    "case1": "1",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Mahima",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Ish",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Soumya",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Vikram",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Chhabi",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Tanya",
+    "case1": "5",
+    "case2": "5",
+    "case3": "5",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Shrey",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Shelly",
+    "case1": "1",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Vibha",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Ham",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Noddy ",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Saima ",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Danielle",
+    "case1": "1",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Amy",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Stuti",
+    "case1": "5",
+    "case2": "5",
+    "case3": "5",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Arjun",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Aman ",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Ritu",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Akriti",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Anonymous ",
+    "case1": "1",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Jithin",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Soumya",
+    "case1": "1",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Shilpi",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Anavi",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Manu",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Anuradha ",
+    "case1": "1",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Jared ",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Anil",
+    "case1": "1",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Sanjeev",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Vatsala",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "SG",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Rishab",
+    "case1": "5",
+    "case2": "5",
+    "case3": "5",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Gaurav",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Trilochan",
+    "case1": "5",
+    "case2": "1",
+    "case3": "5",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Aditi",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Js",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Deevankshu",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Pritam",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Devansh",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Debasish ",
+    "case1": "1",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Vishal",
+    "case1": "5",
+    "case2": "5",
+    "case3": "5",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Asavarie ",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Poorvi",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Avnee",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Vedika",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Avishi",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Nikhil ",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Shyam",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Simran",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Aparajita",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Vaishally ",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Pradumnya",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Unknown",
+    "case1": "5",
+    "case2": "5",
+    "case3": "5",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Rashmi ",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Aakriti",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Rakhi",
+    "case1": "5",
+    "case2": "5",
+    "case3": "5",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Nishika ",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Kanika ",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Divyata",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Bharat",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Saakshita",
+    "case1": "1",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Abhinav ",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Manju",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Jithin",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Maneesh",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Sanya",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Suvansh",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Abhishek ",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Dhruv",
+    "case1": "5",
+    "case2": "5",
+    "case3": "5",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Anuradha",
+    "case1": "5",
+    "case2": "1",
+    "case3": "5",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Amit ",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Vishal",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Ayush",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Pavan",
+    "case1": "5",
+    "case2": "5",
+    "case3": "5",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Sourav",
+    "case1": "5",
+    "case2": "1",
+    "case3": "5",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Srishti",
+    "case1": "5",
+    "case2": "1",
+    "case3": "5",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Srishti",
+    "case1": "5",
+    "case2": "1",
+    "case3": "5",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Parul",
+    "case1": "5",
+    "case2": "5",
+    "case3": "5",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Khushbu",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Harshita",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Bond ",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Palmer",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Hayden",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Avishiiiiiii",
+    "case1": "1",
+    "case2": "1",
+    "case3": "5",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Vivek",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Arjun",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Brij",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Araiya",
+    "case1": "5",
+    "case2": "5",
+    "case3": "5",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Aadi",
+    "case1": "1",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Aneesh ",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Mervyn ",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Aditya",
+    "case1": "5",
+    "case2": "5",
+    "case3": "5",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Akrish",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Svarika",
+    "case1": "5",
+    "case2": "1",
+    "case3": "5",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Mihika",
+    "case1": "1",
+    "case2": "5",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Nafis",
+    "case1": "1",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Sanjana ",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Srinjoy",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Aatreyi",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Harsh ",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Somhrit ",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Pratishtha",
+    "case1": "1",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Shantipriya",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "A",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Ethan",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Krish",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Yulia",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Iseebee",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Hanna",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Shelly",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Ananya ",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Saket",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Parthiv",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Prabh ",
+    "case1": "5",
+    "case2": "5",
+    "case3": "5",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Abhishek ",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "A Samad",
+    "case1": "1",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Paras ",
+    "case1": "5",
+    "case2": "5",
+    "case3": "5",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Ojas",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Ashley",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Namrata ",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Laveek",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Anu",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Mette",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Sofía",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Chin ",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Aiyanah ",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Lorijn",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Diana",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Alex",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Sierra ",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Ananya",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Rossy ",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Sujay",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Niketa",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Samiksha",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Dinesh",
+    "case1": "1",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Devyani",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Kartik",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Rishabh",
+    "case1": "1",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Namitha",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Venessa ",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Shruti",
+    "case1": "5",
+    "case2": "1",
+    "case3": "5",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Pratyush",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Amit",
+    "case1": "5",
+    "case2": "1",
+    "case3": "5",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Shruti",
+    "case1": "5",
+    "case2": "1",
+    "case3": "5",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Anto",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Tanmay",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Samantha",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Thin",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Lara",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Felix",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Suhani",
+    "case1": "5",
+    "case2": "5",
+    "case3": "5",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Shanya ",
+    "case1": "5",
+    "case2": "5",
+    "case3": "5",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Tanya",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Kamna",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Kanishk",
+    "case1": "5",
+    "case2": "5",
+    "case3": "5",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Ragini ",
+    "case1": "5",
+    "case2": "5",
+    "case3": "5",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Niharika ",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Aman",
+    "case1": "1",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Shreya",
+    "case1": "5",
+    "case2": "1",
+    "case3": "5",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Pratiti ",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Shomaila",
+    "case1": "5",
+    "case2": "5",
+    "case3": "5",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Alisha ",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Soumya",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Heli",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Mallika",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Suman",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Renu ",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Rajni",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Anuj",
+    "case1": "5",
+    "case2": "5",
+    "case3": "5",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Richard",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Harold",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Ankit",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Karan",
+    "case1": "1",
+    "case2": "5",
+    "case3": "1",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Juliet",
+    "case1": "5",
+    "case2": "5",
+    "case3": "5",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Navina",
+    "case1": "1",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Aditya ",
+    "case1": "1",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Christopher",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Kritika",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Abhishek",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Charu ",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Shireen ",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Pradeep ",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Quianna",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Shivangi",
+    "case1": "1",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Samantha",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Summer",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Nadiya ",
+    "case1": "5",
+    "case2": "5",
+    "case3": "5",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Renuga",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Kika",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Anfernee",
+    "case1": "1",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Pablo",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Sonakshi ",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Ravi",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Hema",
+    "case1": "5",
+    "case2": "5",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Jo",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Riya",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Kate",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Lorena",
+    "case1": "5",
+    "case2": "1",
+    "case3": "5",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Riyaz",
+    "case1": "5",
+    "case2": "5",
+    "case3": "5",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Pawan",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Elieth",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "MJ",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Shalu",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Varnika",
+    "case1": "1",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Elena",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Maxine",
+    "case1": "1",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Zeeshan",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Sandeep",
+    "case1": "5",
+    "case2": "1",
+    "case3": "5",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Roy",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Rosielis",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Kristina",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Matilde",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Bita",
+    "case1": "1",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Julia",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Evelyn",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Olive",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Selma",
+    "case1": "5",
+    "case2": "5",
+    "case3": "5",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Yeon",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Jazmin",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Sophia",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "1"
+  },
+  {
+    "name": "Hanisah",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Kristine",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "1",
+    "case5": "5"
+  },
+  {
+    "name": "Ariana",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Adrija",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  },
+  {
+    "name": "Alana",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Thuci",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Abby",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "5"
+  },
+  {
+    "name": "Skyler",
+    "case1": "5",
+    "case2": "1",
+    "case3": "1",
+    "case4": "5",
+    "case5": "1"
+  }
+]
