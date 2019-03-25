@@ -1,0 +1,2576 @@
+[
+  {
+    "timestamp": "2019-02-26T14:59:39.722Z",
+    "name": "Vanya",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-02-26T15:15:27.775Z",
+    "name": "Mahima",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-02-26T15:19:29.120Z",
+    "name": "Ish Talwar",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 other patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-02-26T16:34:55.835Z",
+    "name": "Soumya",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 other patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-02-27T06:17:30.308Z",
+    "name": "Vikram",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 other patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-02-27T10:29:02.513Z",
+    "name": "Chhabi",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-02-28T13:00:09.650Z",
+    "name": "Tanya",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-02-28T16:11:36.626Z",
+    "name": "Shrey Talwar",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-02-28T16:18:22.005Z",
+    "name": "Shelly",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-02-28T17:00:49.749Z",
+    "name": "Vibha",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-02-28T18:22:15.711Z",
+    "name": "ham",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-02-28T18:33:54.847Z",
+    "name": "Noddy ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-02-28T18:47:17.168Z",
+    "name": "Saima ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-02-28T18:50:41.395Z",
+    "name": "Danielle",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-02-28T19:39:09.299Z",
+    "name": "Amy",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-02-28T20:19:20.128Z",
+    "name": "Stuti",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T05:44:56.390Z",
+    "name": "Arjun",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T05:45:31.747Z",
+    "name": "Aman ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T08:38:01.918Z",
+    "name": "Ritu",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T08:39:35.611Z",
+    "name": "Akriti puri",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T08:49:41.847Z",
+    "name": "Anonymous ",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T08:52:23.814Z",
+    "name": "Jithin",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T08:55:57.134Z",
+    "name": "Soumya",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T09:18:41.813Z",
+    "name": "Shilpi",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T09:45:15.097Z",
+    "name": "Anavi",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T09:58:16.776Z",
+    "name": "Manu",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T10:03:38.220Z",
+    "name": "Anuradha ",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T10:18:55.623Z",
+    "name": "Jared ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T10:22:08.818Z",
+    "name": "Anil Bansal Ludhiana Punjab",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T10:32:59.493Z",
+    "name": "Sanjeev",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T10:37:10.660Z",
+    "name": "Vatsala",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T11:05:54.427Z",
+    "name": "SG",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T11:24:48.200Z",
+    "name": "Rishab",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T11:37:11.250Z",
+    "name": "Gaurav Bajaj",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T12:10:05.705Z",
+    "name": "Trilochan",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T12:14:18.047Z",
+    "name": "Aditi",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T12:19:01.669Z",
+    "name": "Js",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T12:19:58.784Z",
+    "name": "Deevankshu",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T12:30:40.317Z",
+    "name": "Pritam kumar",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T12:32:59.910Z",
+    "name": "Devansh Mahajan",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T12:59:26.116Z",
+    "name": "Debasish ",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T13:12:56.324Z",
+    "name": "Vishal",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T13:13:16.743Z",
+    "name": "Asavarie ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T13:25:48.566Z",
+    "name": "Poorvi Singhania",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T13:39:12.665Z",
+    "name": "Avnee Malhotra",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T13:42:02.474Z",
+    "name": "Vedika Tripathi",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T13:44:50.780Z",
+    "name": "Avishi jain",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T13:47:26.684Z",
+    "name": "Nikhil ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T13:48:35.858Z",
+    "name": "Shyam",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T14:00:55.641Z",
+    "name": "Simran Narang",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T14:03:49.581Z",
+    "name": "Aparajita",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T14:05:42.649Z",
+    "name": "Vaishally Sethi ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T14:10:53.925Z",
+    "name": "Pradumnya",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T14:20:13.291Z",
+    "name": "Unknown",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T14:22:41.144Z",
+    "name": "Rashmi ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T14:23:05.837Z",
+    "name": "Aakriti",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T14:26:16.155Z",
+    "name": "Rakhi kher",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T14:33:07.612Z",
+    "name": "Nishika jain ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T14:37:32.039Z",
+    "name": "Kanika ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T14:40:35.209Z",
+    "name": "Divyata",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T14:43:45.821Z",
+    "name": "BHARAT",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T14:45:06.552Z",
+    "name": "saakshita",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T14:46:58.772Z",
+    "name": "Abhinav ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T15:00:57.887Z",
+    "name": "Manju",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T15:08:51.200Z",
+    "name": "Jithin",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T15:09:02.031Z",
+    "name": "Maneesh",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T15:27:26.414Z",
+    "name": "Sanya",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T15:29:56.023Z",
+    "name": "Suvansh",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T15:32:06.947Z",
+    "name": "abhishek singh ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T15:41:32.837Z",
+    "name": "Dhruv",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T15:42:57.859Z",
+    "name": "Anuradha",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T15:54:17.585Z",
+    "name": "Amit ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T16:37:21.305Z",
+    "name": "Vishal",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T17:07:11.206Z",
+    "name": "Ayush",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T17:10:30.562Z",
+    "name": "Pavan Subhakar",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T17:51:08.231Z",
+    "name": "Sourav",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T17:52:50.973Z",
+    "name": "Srishti",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T17:53:03.162Z",
+    "name": "Srishti",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T18:15:05.026Z",
+    "name": "Parul",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T19:48:02.607Z",
+    "name": "Khushbu",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T20:11:03.329Z",
+    "name": "Harshita",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-01T20:14:11.404Z",
+    "name": "Bond ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-01T20:50:27.596Z",
+    "name": "Palmer",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-02T01:55:36.517Z",
+    "name": "hayden",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-02T04:55:25.942Z",
+    "name": "Avishiiiiiii",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-02T06:11:02.020Z",
+    "name": "Vivek Jain",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-02T07:05:32.074Z",
+    "name": "Arjun",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-02T07:09:47.904Z",
+    "name": "Brij",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-02T07:09:49.275Z",
+    "name": "Araiya",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-02T07:09:56.726Z",
+    "name": "Aadi",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-02T07:10:16.238Z",
+    "name": "Aneesh ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-02T07:11:54.240Z",
+    "name": "Mervyn ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-02T07:12:56.193Z",
+    "name": "aditya",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-02T07:13:07.276Z",
+    "name": "Akrish",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-02T07:14:16.390Z",
+    "name": "Svarika",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-02T07:21:30.420Z",
+    "name": "Mihika",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-02T07:23:25.286Z",
+    "name": "Nafis",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-02T07:27:43.266Z",
+    "name": "Sanjana ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-02T07:36:47.311Z",
+    "name": "Srinjoy",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-02T07:38:40.905Z",
+    "name": "Aatreyi",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-02T07:40:29.882Z",
+    "name": "Harsh ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-02T07:45:52.102Z",
+    "name": "Somhrit ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-02T07:58:53.964Z",
+    "name": "Pratishtha",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-02T08:02:37.687Z",
+    "name": "Shantipriya",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-02T08:10:16.728Z",
+    "name": "A",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-02T08:22:10.101Z",
+    "name": "Ethan",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-02T08:38:28.353Z",
+    "name": "Krish",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-02T08:51:33.188Z",
+    "name": "Yulia",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-02T08:59:41.071Z",
+    "name": "Iseebee",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-02T09:03:23.843Z",
+    "name": "Hanna",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-02T10:54:12.044Z",
+    "name": "Shelly T.",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-02T11:06:17.083Z",
+    "name": "Ananya ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-02T11:38:31.439Z",
+    "name": "Saket Mundhra",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-02T11:58:13.697Z",
+    "name": "Parthiv",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-02T14:55:16.720Z",
+    "name": "Prabh ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-02T15:10:26.669Z",
+    "name": "Abhishek ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-02T15:32:13.402Z",
+    "name": "A Samad",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-02T15:48:44.240Z",
+    "name": "Paras ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-02T16:05:22.243Z",
+    "name": "ojas",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-02T18:53:47.723Z",
+    "name": "Ashley",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-03T08:30:56.035Z",
+    "name": "Namrata ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-03T08:35:18.593Z",
+    "name": "Laveek",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-03T11:52:55.791Z",
+    "name": "Anu",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-03T17:19:26.276Z",
+    "name": "Mette",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-03T17:27:55.097Z",
+    "name": "Sofía",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-03T17:29:11.757Z",
+    "name": "Chin ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-03T17:46:44.109Z",
+    "name": "Aiyanah ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-03T19:04:37.118Z",
+    "name": "Lorijn",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-03T20:28:19.346Z",
+    "name": "Diana",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-03T21:00:47.042Z",
+    "name": "Alex",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-03T22:51:37.505Z",
+    "name": "Sierra ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-04T06:54:56.879Z",
+    "name": "Ananya Rawal",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-04T07:53:36.658Z",
+    "name": "Rossy ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-04T08:38:22.751Z",
+    "name": "Sujay Srivastava",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-04T08:49:48.126Z",
+    "name": "Niketa chakrabarti",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-04T08:53:50.495Z",
+    "name": "Samiksha",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-04T08:58:32.039Z",
+    "name": "Dinesh Abiram",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-04T09:00:54.203Z",
+    "name": "Kartik",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-04T09:02:28.259Z",
+    "name": "Devyani kaushik",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-04T09:02:49.231Z",
+    "name": "Rishabh",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-04T09:03:18.971Z",
+    "name": "Namitha",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-04T09:03:51.659Z",
+    "name": "Venessa ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-04T09:04:44.945Z",
+    "name": "Shruti",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-04T09:18:54.412Z",
+    "name": "Pratyush Maheshwari",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-04T09:57:56.425Z",
+    "name": "Amit",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-04T11:55:24.701Z",
+    "name": "Shruti",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-04T12:06:52.923Z",
+    "name": "Anto",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-04T12:37:31.367Z",
+    "name": "Tanmay",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-04T14:24:26.407Z",
+    "name": "M",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-04T15:35:07.960Z",
+    "name": "Samantha",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-04T16:48:09.113Z",
+    "name": "Thin",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-04T19:10:32.568Z",
+    "name": "Lara",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-04T22:54:34.239Z",
+    "name": "Felix",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-05T05:01:59.621Z",
+    "name": "Suhani",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-05T05:03:55.794Z",
+    "name": "Shanya ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-05T06:53:18.084Z",
+    "name": "Tanya",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-05T06:55:01.357Z",
+    "name": "Kamna",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-05T06:58:51.047Z",
+    "name": "Kanishk prajapati",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-05T07:01:17.123Z",
+    "name": "Ragini ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-05T07:04:02.807Z",
+    "name": "Niharika ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-05T07:06:19.723Z",
+    "name": "Aman",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-05T07:09:46.349Z",
+    "name": "Shreya",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-05T07:13:00.857Z",
+    "name": "Pratiti ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-05T07:15:01.619Z",
+    "name": "Shomaila",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-05T07:17:25.384Z",
+    "name": "Alisha ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-05T07:20:26.660Z",
+    "name": "Soumya",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-05T07:24:59.342Z",
+    "name": "Heli",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-05T14:33:18.179Z",
+    "name": "Mallika Bright ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-05T14:40:18.202Z",
+    "name": "Suman",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-05T14:43:43.356Z",
+    "name": "Renu Rana ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-05T15:11:58.740Z",
+    "name": "Rajni",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-05T15:35:56.398Z",
+    "name": "Anuj Bhatnagar",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-05T16:05:18.771Z",
+    "name": "Richard",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-05T16:05:53.357Z",
+    "name": "Harold",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-05T16:47:13.836Z",
+    "name": "Ankit",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-05T16:54:52.247Z",
+    "name": "Karan",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-05T17:11:36.168Z",
+    "name": "Juliet",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-05T17:40:32.279Z",
+    "name": "Navina",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-05T17:42:18.731Z",
+    "name": "Aditya ",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-05T17:45:40.600Z",
+    "name": "Christopher Robin",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-05T17:49:56.944Z",
+    "name": "Kritika Subramanian",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-05T17:53:20.939Z",
+    "name": "Abhishek",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-05T18:27:09.972Z",
+    "name": "Charu Bhatnagar ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-05T18:32:25.152Z",
+    "name": "Shireen Harold Bright ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-05T18:33:06.505Z",
+    "name": "Pradeep Rana ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-05T19:30:20.687Z",
+    "name": "Quianna",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-05T19:37:55.461Z",
+    "name": "Shivangi p",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-05T20:15:58.978Z",
+    "name": "Samantha",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-05T22:28:18.629Z",
+    "name": "Summer",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-06T05:23:41.117Z",
+    "name": "Nadiya Gilani ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-06T06:21:25.560Z",
+    "name": "Renuga",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-06T06:49:43.533Z",
+    "name": "Kika",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-06T11:02:14.375Z",
+    "name": "Anfernee",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-06T12:11:20.480Z",
+    "name": "pablo",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-06T17:22:47.629Z",
+    "name": "Sonakshi ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-06T19:38:58.727Z",
+    "name": "Ravi",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-07T03:58:59.467Z",
+    "name": "Hema",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-07T04:30:55.273Z",
+    "name": "jo",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-07T06:13:04.014Z",
+    "name": "Riya",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-07T08:54:27.355Z",
+    "name": "Kate",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-07T15:37:53.368Z",
+    "name": "Lorena",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-08T04:02:18.121Z",
+    "name": "Riyaz",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-08T17:20:21.445Z",
+    "name": "Pawan",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-09T00:37:26.199Z",
+    "name": "Elieth",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-09T00:59:17.976Z",
+    "name": "MJ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-09T06:42:41.397Z",
+    "name": "Shalu",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-09T08:10:59.032Z",
+    "name": "Varnika",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-10T19:19:14.945Z",
+    "name": "Elena",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-11T08:04:36.859Z",
+    "name": "Maxine",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-11T08:39:47.942Z",
+    "name": "Zeeshan",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-11T13:01:19.451Z",
+    "name": "Sandeep Jain",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-12T08:05:02.194Z",
+    "name": "Roy",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-13T13:08:44.817Z",
+    "name": "Rosielis",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-13T17:07:18.684Z",
+    "name": "Kristina",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-16T00:11:30.634Z",
+    "name": "Matilde da Fonseca Santos de Carvalho Salazar",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-16T01:14:38.004Z",
+    "name": "Bita",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-16T01:59:23.116Z",
+    "name": "Julia",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-16T05:29:49.567Z",
+    "name": "Evelyn",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-16T06:53:39.667Z",
+    "name": "Olive",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-16T09:43:15.188Z",
+    "name": "Selma",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-16T13:07:29.830Z",
+    "name": "Yeon",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-16T14:25:51.250Z",
+    "name": "Jazmin",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-16T14:49:53.024Z",
+    "name": "Sophia",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-16T15:42:34.713Z",
+    "name": "Hanisah",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-16T16:42:53.760Z",
+    "name": "Kristine",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-16T18:50:12.492Z",
+    "name": "Ariana",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-16T20:52:41.524Z",
+    "name": "Adrija",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-16T22:09:40.696Z",
+    "name": "Alana",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-16T22:41:24.050Z",
+    "name": "Thuci",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-17T06:35:06.438Z",
+    "name": "Abby",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-17T08:04:08.588Z",
+    "name": "Skyler",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-17T14:33:02.478Z",
+    "name": "Olivia",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-17T17:38:22.935Z",
+    "name": "Nic",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-17T18:06:03.588Z",
+    "name": "Dakota",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-17T19:20:47.615Z",
+    "name": "Skye ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-17T21:31:40.381Z",
+    "name": "eline",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-18T01:05:24.031Z",
+    "name": "Mia",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-18T01:34:42.463Z",
+    "name": "Andrea",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-18T01:58:27.155Z",
+    "name": "Alexis",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-18T02:15:47.016Z",
+    "name": "Carol",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-18T05:44:06.830Z",
+    "name": "Gabriela ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-18T06:21:34.371Z",
+    "name": "Ox",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-18T09:19:54.040Z",
+    "name": "Arjun",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-18T09:22:14.312Z",
+    "name": "Maria",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-18T15:29:33.836Z",
+    "name": "Bhoovisha ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-18T22:56:05.566Z",
+    "name": "Sofie",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-19T02:09:53.042Z",
+    "name": "Chen",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-19T02:09:56.169Z",
+    "name": "Odalys",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-19T03:44:30.502Z",
+    "name": "Issabella",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-19T20:48:57.096Z",
+    "name": "Cécile",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-19T22:22:18.887Z",
+    "name": "Ngan",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-20T11:06:56.476Z",
+    "name": "Grace",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-20T14:39:54.075Z",
+    "name": "Marybeth",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-20T22:25:16.340Z",
+    "name": "Anjo ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-21T07:02:16.944Z",
+    "name": "Olga",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-21T16:01:53.350Z",
+    "name": "Samra",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-21T17:12:35.292Z",
+    "name": "Arti",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-21T20:52:39.710Z",
+    "name": "Antoinette",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-21T22:14:01.496Z",
+    "name": "Nuria",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-21T23:02:25.455Z",
+    "name": "sochi",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-21T23:23:51.992Z",
+    "name": "Emma",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-23T03:03:30.200Z",
+    "name": "Nishant",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-23T09:23:12.792Z",
+    "name": "Fangyuan",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-23T12:11:23.916Z",
+    "name": "kyle",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-23T14:32:53.869Z",
+    "name": "Jeni",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-23T14:56:34.820Z",
+    "name": "Ângela",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-23T22:08:36.179Z",
+    "name": "Aditi Singh",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-23T22:47:12.189Z",
+    "name": "Felicity",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-24T07:22:34.734Z",
+    "name": "Madhav Mangal",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-24T07:26:50.298Z",
+    "name": "Manshuk",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-24T07:31:45.762Z",
+    "name": "Aayushman",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-24T07:40:36.311Z",
+    "name": "Avantee",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-24T07:43:21.895Z",
+    "name": "Rashi",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-24T08:16:40.521Z",
+    "name": "Jasdeep Singh ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-24T08:33:56.758Z",
+    "name": "Jahnvi Singh",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-24T08:37:03.686Z",
+    "name": "Ram",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-24T08:45:45.125Z",
+    "name": "Anushka Tibrewal ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-24T08:51:36.854Z",
+    "name": "Yash agrawal ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-24T09:08:32.623Z",
+    "name": "Ritika",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-24T09:18:28.391Z",
+    "name": "Avantee",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-24T09:42:17.537Z",
+    "name": "Chanelle",
+    "case1": "Do nothing & kill 5 workers",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-24T09:54:33.231Z",
+    "name": "Shipra Singh",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-24T10:36:56.638Z",
+    "name": "Rishav",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-24T14:07:53.087Z",
+    "name": "Larissa",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Do nothing & let the 5 patients die"
+  },
+  {
+    "timestamp": "2019-03-24T18:28:33.990Z",
+    "name": "Anushka Tibrewal ",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Use the healthy patient's organs to save 5 lives",
+    "case3": "Execute the innocent person & save 5 lives",
+    "case4": "Give the dose to the initial patient",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  },
+  {
+    "timestamp": "2019-03-25T19:11:58.726Z",
+    "name": "Anto",
+    "case1": "Steer the trolley & kill 1 worker",
+    "case2": "Do nothing & let the 5 die",
+    "case3": "Do nothing & let the 5 die",
+    "case4": "Give the dose to the 5 later patients",
+    "case5": "Manufacture the gas & let the 1 patient die"
+  }
+]
