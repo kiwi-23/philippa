@@ -70,7 +70,7 @@
   .force("charge", d3.forceManyBody().strength(-450))
   .force("center", d3.forceCenter(width / 2, height / 2));
 
-  d3.json("https://raw.githubusercontent.com/kiwi-23/philippa/master/data3.json", function(error, graph) {
+  d3.json("https://raw.githubusercontent.com/kiwi-23/philippa/master/data/data-visual.json", function(error, graph) {
     if (error) throw error;
 
     var link = svg.append("g")
