@@ -1,8 +1,8 @@
 var list_data, train_data;
 
 function preload() {
-  list_data = loadJSON("https://raw.githubusercontent.com/kiwi-23/philippa/master/data-list.json");
-  train_data = loadJSON("https://raw.githubusercontent.com/kiwi-23/philippa/master/data-train.json");
+  list_data = loadJSON("https://raw.githubusercontent.com/kiwi-23/philippa/master/data/data-list.json");
+  train_data = loadJSON("https://raw.githubusercontent.com/kiwi-23/philippa/master/dara/data-train.json");
 }
 
 var net;
