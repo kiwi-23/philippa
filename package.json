@@ -1,0 +1,14 @@
+{
+  "name": "philippa",
+  "version": "1.0.0",
+  "description": "an intelligent moral system",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "soumya talwar",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "googleapis": "^27.0.0"
+  }
+}
