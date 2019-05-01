@@ -76,4 +76,7 @@ action [(<i>number</i>), (<i>desire</i>), (<i>intent</i>), (<i>duty</i>)], where
 <br>
 “Philippa” is a neural network that is trained on this crowdsourced data. She has learnt to make ethical choices beyond what the arithmetic scope of (5 lives > 1 life) allows. 
 
+<br>
+<h2>Other Links</h2>
 
+<a href="https://mya-kiwi.com/project/philippa">web portal</a> / <a href="https://www.dropbox.com/s/juhp5gzxh042bx7/documentation.pdf?dl=0">documentation</a>
