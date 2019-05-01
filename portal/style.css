@@ -1,0 +1,109 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -moz-osx-font-smoothing:grayscale;
+  -webkit-font-smoothing:antialiased;
+  font-smoothing:antialiased;
+}
+
+body{
+  overflow-x: hidden;
+}
+
+#data-vis{
+  position: fixed;
+}
+
+.links line {
+/*  stroke: #656565;*/
+}
+
+.nodes circle {
+  pointer-events: all;
+  stroke: none;
+  stroke-width: 40px;
+/*  fill: #4A4A4A;*/
+}
+
+.caption  {
+  fill: #000000;
+  font-size: 0.65rem;
+  visibility: hidden;
+  cursor: default;
+}
+
+p{
+  font-family: "Roboto", sans-serif;
+}
+
+.case1{
+  /* padding: 1rem; */
+  padding-top: 4rem;
+  text-align: center;
+  width: 80%;
+  margin-bottom: 5%;
+}
+
+.totals{
+  padding: 1rem;
+  padding-top: 6rem;
+  text-align: center;
+  width: 100%;
+  margin-bottom: 5%;
+}
+
+#kill-1, #kill-5{
+  font-size: 2.5rem;
+  font-weight: 500;
+  margin-bottom: 0.25rem;
+  width: auto;
+}
+
+#total-users, #total-data{
+  font-size: 0.8rem;
+}
+
+.stats_desc{
+  color: #6C6C6C;
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+.totals_desc{
+  font-size: 0.7rem;
+  margin-bottom: 4px;
+  text-align: left;
+  font-weight: 500;
+}
+
+td, th{
+  padding: 0.1rem 1rem;
+  line-height: 1rem;
+}
+
+table, th, td{
+  font-size: 0.65rem;
+  font-weight: 400;
+  text-align: center;
+}
+
+.extra, .extra a{
+  font-size: 0.65rem;
+  font-weight: 400;
+  text-align: center;
+}
+
+@media only screen and (max-width: 800px){
+  .totals{
+    font-size: 3rem;
+  }
+
+  #data-vis-hold{
+    display: none;
+  }
+
+  .totals_desc{
+    text-align: center;
+  }
+}
