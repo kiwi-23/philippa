@@ -79,4 +79,4 @@ action [(<i>number</i>), (<i>desire</i>), (<i>intent</i>), (<i>duty</i>)], where
 <br>
 <h2>Other Links</h2>
 
-<a href="https://mya-kiwi.com/project/philippa">web portal</a> / <a href="http://dl.dropboxusercontent.com/s/juhp5gzxh042bx7/philippa-doc.pdf?dl=0">documentation</a>
+<a href="https://mya-kiwi.com/project/philippa">web portal</a> / <a href="http://dl.dropboxusercontent.com/s/go7kfmc408d4tfi/Philippa%20-%20Research%20Paper.pdf?dl=0">documentation</a>
