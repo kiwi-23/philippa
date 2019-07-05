@@ -71,6 +71,6 @@ action [(<i>number</i>), (<i>desire</i>), (<i>intent</i>), (<i>duty</i>)], where
 <b>duty</b> = the kind of obligation we’re adhering to.
 
 <br>
-“Philippa” is a neural network that is trained on this crowdsourced data. She has learnt to make ethical choices beyond what the arithmetic scope of (5 lives > 1 life) allows. 
+<p>“Philippa” is a neural network that is trained on this crowdsourced data. She has learnt to make ethical choices beyond what the arithmetic scope of (5 lives > 1 life) allows.</p> 
 
-For a detailed reading, here is the full <a href="http://dl.dropboxusercontent.com/s/go7kfmc408d4tfi/Philippa%20-%20Research%20Paper.pdf?dl=0">research paper</a>.
+<p>For a detailed reading, here is the full <a href="http://dl.dropboxusercontent.com/s/go7kfmc408d4tfi/Philippa%20-%20Research%20Paper.pdf?dl=0">research paper</a>.</p>
