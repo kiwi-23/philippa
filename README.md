@@ -21,7 +21,7 @@ This problem illustrates two kinds of moral reasonings- <a href="https://en.wiki
 This thought enthused my exploration of morality, specifically into trying to evaluate the worth of a person’s life. I inspect the moral worth of beings with respect to personhood, and try to identify the grounds for the heirarchy of moral statuses assigned to different entities on the basis of rationality and sentience.
 
 <br>
-<h2>Survey</h2>
+<h2>Data</h2>
 
 In my inquiry, <a href="https://docs.google.com/forms/d/e/1FAIpQLSelGcMKG3RO2SQF9nmVPNPvnKCHpN9_e6N-ZoyUUNCIMpvNOg/viewform">I interviewed a large number of people</a> and proposed 5 such scenarios to them, the trolley problem and four other variations. 
 
@@ -54,7 +54,7 @@ one a heart, another a lung. There are no donors. But there is a healthy patient
 • Do nothing & let the 5 patients die</li></ol>
 
 <br>
-<h2>Methodology</h2>
+<h2>Framework</h2>
 
 Despite having the same consequences, 5 lives against 1, your intuition will tell you that there are more moral variables at play other than just the number of lives. 
 
