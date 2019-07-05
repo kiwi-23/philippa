@@ -2,6 +2,7 @@
 <p><b>An artistic exploration of a philosophical inquiry regarding the worth of a person’s life, inspecting the grounds of moral status and mapping it onto a framework where logic meets morality.</b></p>
 
 <a href="https://mya-kiwi.com/project/philippa">visit the project</a>
+<br>
 
 <h2>Abstract</h2>
 
