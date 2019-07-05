@@ -62,13 +62,13 @@ The 5 scenarios all use different combinations of four kinds of moral variables:
 
 action [(<i>number</i>), (<i>desire</i>), (<i>intent</i>), (<i>duty</i>)], where
 
-<b>number</b> = the number of lives saved by that action,
+<b>number</b> = number of lives saved by that action,
 
-<b>desire</b> = the kind of desire that’s fulfilled by that action,
+<b>desire</b> = kind of desire that’s fulfilled by that action,
 
-<b>intent</b> = our intention behind the action, and
+<b>intent</b> = intention behind the action, and
 
-<b>duty</b> = the kind of obligation we’re adhering to.
+<b>duty</b> = kind of obligation being adhered to.
 
 <br>
 <p>“Philippa” is a neural network that is trained on this crowdsourced data. She has learnt to make ethical choices beyond what the arithmetic scope of (5 lives > 1 life) allows.</p> 
