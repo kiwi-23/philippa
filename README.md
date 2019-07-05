@@ -1,5 +1,7 @@
 # Philippa
-<p><b>An artistic exploration of a philosophical inquiry regarding the worth of a person’s life, inspecting the grounds of moral status and mapping it onto a logical framework to build an intelligent system that is capable of measuring morality.</b></p>
+<p><b>An artistic exploration of a philosophical inquiry regarding the worth of a person’s life, inspecting the grounds of moral status and mapping it onto a framework where logic meets morality.</b></p>
+
+<a href="https://mya-kiwi.com/project/philippa">visit the project</a>
 
 <br>
 <h2>Abstract</h2>
@@ -16,16 +18,12 @@ You feel helpless until you notice that there is a sidetrack off to the right, a
 
 This problem illustrates two kinds of moral reasonings- <a href="https://en.wikipedia.org/wiki/Consequentialism">Consequentialism</a> that bases the morality of an action on the consequences of the action, and <a href="https://en.wikipedia.org/wiki/Deontological_ethics">Deontology</a> that bases the morality on the nature of the action.
 
-Consequentialists would argue that it would be morally unethical to kill five when you can kill one, that it should always be one’s goal to consider the greatest good for the greatest number. On the other hand, Deontology states that murder is murder, no matter the consequences.
-
 This thought enthused my exploration of morality, specifically into trying to evaluate the worth of a person’s life. I inspect the moral worth of beings with respect to personhood, and try to identify the grounds for the heirarchy of moral statuses assigned to different entities on the basis of rationality and sentience.
-
-The goal is to dissect our moral codes and build a framework where logic meets morality. I fabricate a system that is able to understand these moral variables and make decisions beyond what the scope of a simple quantitative comparision would allow.
 
 <br>
 <h2>Survey</h2>
 
-In my inquiry, <a href="https://docs.google.com/forms/d/e/1FAIpQLSelGcMKG3RO2SQF9nmVPNPvnKCHpN9_e6N-ZoyUUNCIMpvNOg/viewform">I interviewed a large number of people</a> and proposed 5 such scenarios to them, other than the trolley problem, here are the four other variations:
+In my inquiry, <a href="https://docs.google.com/forms/d/e/1FAIpQLSelGcMKG3RO2SQF9nmVPNPvnKCHpN9_e6N-ZoyUUNCIMpvNOg/viewform">I interviewed a large number of people</a> and proposed 5 such scenarios to them, the trolley problem and four other variations. 
 
 <ol>
 
@@ -58,7 +56,7 @@ one a heart, another a lung. There are no donors. But there is a healthy patient
 <br>
 <h2>Methodology</h2>
 
-The 5 scenarios all use different combinations of four kinds of moral variables: number, desire, intent and duty.
+Despite having the same consequences, 5 lives against 1, your intuition will tell you that there are more moral variables at play other than just the number of lives. The 5 scenarios all use different combinations of four kinds of moral variables: number, desire, intent and duty.
 
 <br>
 The moral framework resembles this:
@@ -77,6 +75,5 @@ action [(<i>number</i>), (<i>desire</i>), (<i>intent</i>), (<i>duty</i>)], where
 “Philippa” is a neural network that is trained on this crowdsourced data. She has learnt to make ethical choices beyond what the arithmetic scope of (5 lives > 1 life) allows. 
 
 <br>
-<h2>Other Links</h2>
 
-<a href="https://mya-kiwi.com/project/philippa">web portal</a> / <a href="http://dl.dropboxusercontent.com/s/go7kfmc408d4tfi/Philippa%20-%20Research%20Paper.pdf?dl=0">documentation</a>
+For a detailed reading, here is the full <a href="http://dl.dropboxusercontent.com/s/go7kfmc408d4tfi/Philippa%20-%20Research%20Paper.pdf?dl=0">research paper</a>.
