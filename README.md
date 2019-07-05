@@ -3,7 +3,6 @@
 
 <a href="https://mya-kiwi.com/project/philippa">visit the project</a>
 
-<br>
 <h2>Abstract</h2>
 
 You are the driver of a trolley car that is hurtling down the track at sixty miles an hour, and you notice there are five workers working towards the end of the track. The brakes are faulty, and you feel desperate because you know that if the trolley was to crash into these people, they will surely die.
@@ -56,10 +55,9 @@ one a heart, another a lung. There are no donors. But there is a healthy patient
 <br>
 <h2>Methodology</h2>
 
-Despite having the same consequences, 5 lives against 1, your intuition will tell you that there are more moral variables at play other than just the number of lives. The 5 scenarios all use different combinations of four kinds of moral variables: number, desire, intent and duty.
+Despite having the same consequences, 5 lives against 1, your intuition will tell you that there are more moral variables at play other than just the number of lives. 
 
-<br>
-The moral framework resembles this:
+The 5 scenarios all use different combinations of four kinds of moral variables: number, desire, intent and duty. The moral framework resembles this:
 
 action [(<i>number</i>), (<i>desire</i>), (<i>intent</i>), (<i>duty</i>)], where
 
@@ -75,5 +73,4 @@ action [(<i>number</i>), (<i>desire</i>), (<i>intent</i>), (<i>duty</i>)], where
 “Philippa” is a neural network that is trained on this crowdsourced data. She has learnt to make ethical choices beyond what the arithmetic scope of (5 lives > 1 life) allows. 
 
 <br>
-
 For a detailed reading, here is the full <a href="http://dl.dropboxusercontent.com/s/go7kfmc408d4tfi/Philippa%20-%20Research%20Paper.pdf?dl=0">research paper</a>.
