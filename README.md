@@ -2,8 +2,8 @@
 <p><b>An artistic exploration of a philosophical inquiry regarding the worth of a person’s life, inspecting the grounds of moral status and mapping it onto a framework where logic meets morality.</b></p>
 
 <a href="https://mya-kiwi.com/project/philippa">visit the project</a>
-<br>
 
+<br>
 <h2>Abstract</h2>
 
 You are the driver of a trolley car that is hurtling down the track at sixty miles an hour, and you notice there are five workers working towards the end of the track. The brakes are faulty, and you feel desperate because you know that if the trolley was to crash into these people, they will surely die.
@@ -73,5 +73,5 @@ action [(<i>number</i>), (<i>desire</i>), (<i>intent</i>), (<i>duty</i>)], where
 <br>
 “Philippa” is a neural network that is trained on this crowdsourced data. She has learnt to make ethical choices beyond what the arithmetic scope of (5 lives > 1 life) allows. 
 
-<br>
+
 For a detailed reading, here is the full <a href="http://dl.dropboxusercontent.com/s/go7kfmc408d4tfi/Philippa%20-%20Research%20Paper.pdf?dl=0">research paper</a>.
